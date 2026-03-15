@@ -1,0 +1,681 @@
+DRONE-BASED AERIAL SHOOTING WORKFLOW
+Platform reference: DJI Mavic 4 Pro Fly More Combo / RC 2
+Purpose: Streamlined media production workflow focused on optimal flight paths, safety, and high-quality footage
+
+======================================================================
+1. MISSION OBJECTIVE
+======================================================================
+
+This workflow is designed for professional drone-based aerial shooting in media projects. It prioritizes:
+- Safe and legally compliant operations
+- Efficient mission execution
+- High-quality, repeatable footage
+- Conservative flight-path design
+- Comprehensive risk identification and mitigation
+
+Core principle:
+Do not improvise critical path decisions in the air. Every important shot should be pre-structured on the ground.
+
+======================================================================
+2. OPERATIONAL PRINCIPLES
+======================================================================
+
+1. Safety overrides creative ambition.
+2. Every shot must have a primary route, escape route, and abort logic.
+3. Obstacle sensing is a support layer, not a substitute for conservative path planning.
+4. Do not rely on advertised maximum flight times for production planning.
+5. Do not fly over uninvolved people.
+6. Reduce mission complexity as soon as weather, public movement, or signal quality worsens.
+7. Flight paths should be designed as corridors, not lines.
+
+======================================================================
+3. PRE-PRODUCTION WORKFLOW
+======================================================================
+
+3.1 Define the mission brief
+- Project name
+- Location
+- Date / time window
+- Deliverables
+- Shot list
+- Target frame rate and resolution
+- Camera/lens priority
+- Maximum acceptable risk level
+- Public exposure level
+- Airspace/legal status
+- Fallback non-drone alternatives
+
+3.2 Classify the site
+- Nature / wilderness
+- Coastal
+- Mountain
+- Urban
+- Industrial
+- Event / public space
+- Transport corridor proximity
+- Water / river / harbor
+- Mixed terrain
+
+3.3 Desk reconnaissance
+Check:
+- Airspace restrictions
+- Local drone rules
+- Temporary restrictions
+- Terrain maps
+- Building maps
+- Sun path
+- Weather trend
+- Wind forecast
+- Likely RF interference
+- Potential launch/landing zones
+- Emergency alternate landing zones
+
+3.4 Build the shot list
+Classify each shot:
+- Essential
+- Valuable
+- Optional
+
+For each shot define:
+- Camera objective
+- Approximate altitude
+- Direction of movement
+- Lens selection
+- Subject motion
+- Public exposure
+- Required clearance margins
+
+======================================================================
+4. ON-SITE RECONNAISSANCE
+======================================================================
+
+4.1 Walk the location before launch
+Inspect for:
+- Power lines
+- Guy wires
+- Fences
+- Cranes
+- Poles
+- Trees
+- Thin branches
+- Cables over roads or water
+- Antennas
+- Roof edges
+- Balconies
+- Glass facades
+- Reflective surfaces
+- Narrow passages
+- Water spray
+- Dust
+- Loose gravel
+- Mud
+- Slopes
+- Unstable rocks
+- Vehicles
+- Bystanders
+- Pets
+- Children
+- Cyclists/runners
+- Bird activity
+- Wildlife nesting areas
+
+4.2 Establish operating zones
+Create:
+- Takeoff / landing box
+- Crew zone
+- Public exclusion zone
+- Flight corridor
+- Emergency hover area
+- Escape path
+- Emergency landing area
+
+4.3 Confirm launch surface
+Avoid:
+- Dusty sand
+- Tall grass
+- Loose debris
+- Standing water
+- Slippery stone
+- Unstable slopes
+
+======================================================================
+5. FLIGHT PATH DESIGN
+======================================================================
+
+Every shot must be planned as a corridor with:
+
+1. Primary route
+2. Escape route
+3. Return route
+4. Safe hover point
+5. Emergency landing point
+6. No-fly exclusion bubble
+
+For each planned shot define:
+- Start point
+- End point
+- Altitude band
+- Heading/course
+- Minimum lateral clearance
+- Minimum vertical clearance
+- Maximum speed
+- Turn radius
+- Wind sensitivity
+- Battery launch threshold
+- Battery abort threshold
+- Lost-link procedure
+- Public-incursion abort logic
+
+General path rules:
+- Prefer wide stand-off paths over close-proximity routes
+- Avoid backward flight near obstacles
+- Avoid blind turns
+- Avoid low-level complex route changes
+- Avoid narrow-gap flying unless strictly controlled and necessary
+- Avoid relying on obstacle sensing to save poor route design
+
+======================================================================
+6. CREW STRUCTURE
+======================================================================
+
+Recommended minimum roles:
+- Remote Pilot in Command
+- Visual Observer
+- Director / Camera Supervisor
+- Ground Safety Marshal
+
+Role priorities:
+- Pilot owns aircraft safety
+- Observer monitors airspace, people, and hazards
+- Director focuses on visual result but cannot overrule safety
+- Marshal protects sterile operating area
+
+======================================================================
+7. PRE-FLIGHT CHECKLIST
+======================================================================
+
+7.1 Legal and operational
+- Airspace checked
+- Permissions confirmed if required
+- Local restrictions checked
+- Site brief complete
+- Public exposure evaluated
+- Emergency procedures briefed
+
+7.2 Aircraft
+- Airframe inspected
+- Propellers inspected
+- Motors clear
+- Gimbal clean
+- Lens clean
+- Battery inserted and locked
+- Controller charged
+- Firmware/settings verified
+- Memory capacity sufficient
+
+7.3 Flight systems
+- Home point confirmed
+- GNSS quality stable
+- Compass status normal
+- Obstacle sensing status checked
+- Return-to-home behavior checked
+- Flight mode verified
+- Link quality checked
+- Controller antenna orientation understood
+
+7.4 Environmental
+- Current wind checked on site
+- Gust behavior checked
+- Visibility acceptable
+- No precipitation
+- No active bird aggression
+- Launch/landing area clean
+
+7.5 Production
+- Resolution/frame rate set
+- Shutter strategy set
+- White balance set
+- Exposure checked
+- Focus checked
+- Color mode set
+- Lens selected
+- Shot order confirmed
+
+======================================================================
+8. EXECUTION WORKFLOW
+======================================================================
+
+8.1 Launch sequence
+- Secure sterile takeoff area
+- Confirm crew ready
+- Lift into hover
+- Hold stable hover
+- Perform gentle yaw check
+- Perform gentle translation check
+- Perform braking check
+- Confirm no abnormal drift or instability
+
+8.2 Safety validation pass
+- Fly a slow, conservative version of the route
+- Validate obstacle margins
+- Validate wind behavior
+- Validate link quality
+- Validate visibility
+- Validate public exclusion line
+
+8.3 Hero pass
+- Fly only after safety pass is acceptable
+- Use smooth, predictable movement
+- Avoid unnecessary acceleration
+- Maintain corridor discipline
+- Abort immediately if conditions degrade
+
+8.4 Variation pass
+- Small changes only:
+  - altitude
+  - speed
+  - lens
+  - direction
+  - framing
+- Do not stack multiple complexity increases at once
+
+8.5 Exit
+- Climb or reposition into safe corridor
+- Return conservatively
+- Land before reserve becomes marginal
+
+======================================================================
+9. POST-FLIGHT WORKFLOW
+======================================================================
+
+- Disarm and secure aircraft
+- Inspect propellers
+- Inspect motors
+- Inspect gimbal and lens
+- Check battery temperature and remaining percentage
+- Record anomalies
+- Log wind behavior
+- Log GNSS or signal issues
+- Back up footage immediately
+- Reassess next mission segment before relaunch
+
+======================================================================
+10. RISK REGISTER: DRONE PATH HAZARDS AND CONTROLS
+======================================================================
+
+10.1 Airspace and legal risks
+Risks:
+- Restricted zone
+- Temporary restriction
+- Local municipal restrictions
+- Protected infrastructure proximity
+- Unauthorized operations
+- Flight over uninvolved people
+
+Controls:
+- Check airspace and local geo-zones before dispatch
+- Confirm legal category of operation
+- Redesign route away from public movement areas
+- Abort if crowd density changes beyond plan
+
+10.2 Collision risks
+Risks:
+- Power lines
+- Guy wires
+- Branches
+- Cables
+- Cranes
+- Roof edges
+- Poles
+- Antennas
+- Glass facades
+- Narrow passages
+- Blind reversals
+- Backward flight into obstacles
+
+Controls:
+- Maintain generous clearance margins
+- Fly slow validation pass first
+- Avoid blind turns
+- Avoid reverse flight near structures
+- Maintain stand-off distance from facades
+- Do not depend on sensors as primary defense
+
+10.3 Weather risks
+Risks:
+- Sustained wind
+- Gusts
+- Rotor turbulence
+- Downdrafts
+- Updrafts
+- Rain
+- Mist
+- Fog
+- Sea spray
+- Icing risk
+- Hot rising air
+- Reduced braking margin
+
+Controls:
+- Use local real conditions, not only app forecast
+- Set separate steady wind and gust thresholds
+- Reduce mission envelope in unstable weather
+- Avoid cliff edges, ridges, building canyons in gusts
+- Stop on first sign of precipitation or moisture contamination
+
+10.4 Positioning risks
+Risks:
+- GNSS degradation
+- Urban canyon multipath
+- Compass disturbance
+- Incorrect home point
+- Drift over low-texture surfaces
+- Reflective-surface confusion
+
+Controls:
+- Verify home point deliberately
+- Avoid launching near steel masses or reinforced structures
+- Let positioning stabilize before complex movement
+- Climb first, then translate laterally
+
+10.5 RF / link risks
+Risks:
+- Wi-Fi congestion
+- Industrial RF interference
+- Terrain masking
+- Building masking
+- Signal shadow behind structures
+- Public event spectrum saturation
+
+Controls:
+- Maintain line-of-sight geometry
+- Avoid descending behind obstructions
+- Keep aircraft visible from controller position
+- Define lost-link response before launch
+- Shorten path in RF-heavy environments
+
+10.6 Human exposure risks
+Risks:
+- Pedestrians entering corridor
+- Crowd drift into takeoff zone
+- Vehicles beneath route
+- Cyclists/runners passing through
+- Children approaching crew
+- Startle reactions
+
+Controls:
+- Ground marshal controls exclusion zone
+- Abort immediately on corridor breach
+- Keep takeoff/landing area sterile
+- Never continue the shot once a person enters hazard area
+
+10.7 Wildlife risks
+Risks:
+- Birds of prey
+- Territorial nesting birds
+- Flocks
+- Startled animals
+- Protected habitats
+
+Controls:
+- Monitor bird behavior before launch
+- Avoid loitering near nesting zones
+- Exit immediately on bird pursuit/aggression
+- Reduce operation in sensitive wildlife periods
+
+10.8 Surface and landing risks
+Risks:
+- Dust ingestion
+- Sand ingestion
+- Grass entanglement
+- Mud
+- Slippery rocks
+- Water edge slips
+- Loose gravel
+- Slope instability
+
+Controls:
+- Use landing pad or clean hard surface
+- Avoid rotor wash over dust/debris
+- Use only stable, dry landing zones where possible
+- Reposition launch area if contamination risk is high
+
+10.9 Battery and power risks
+Risks:
+- Overestimating endurance
+- Cold battery performance loss
+- Voltage sag
+- Headwind return deficit
+- Inconsistent battery condition tracking
+- Mission stacking without reserve awareness
+
+Controls:
+- Use conservative endurance planning
+- Set early return threshold
+- Increase reserve for wind, cold, urban complexity
+- Log battery health
+- Do not plan around advertised maximum flight time
+
+10.10 Camera and footage risks
+Risks:
+- Horizon tilt
+- Focus miss
+- Dirty lens
+- Highlight clipping
+- Flicker
+- Excessive speed
+- Unusable parallax
+- Overuse of digital zoom
+- Wrong shutter/framerate combination
+
+Controls:
+- Lock settings before mission
+- Clean lens every battery cycle
+- Fly slower than instinct suggests
+- Use main camera for hero work unless compression is intentional
+- Review first critical take before moving on
+
+10.11 Urban-specific risks
+Risks:
+- Downdrafts near facades
+- GNSS multipath
+- Glass ambiguity
+- Street canyon signal drop
+- Rooftop updrafts
+- Public confrontation
+- Privacy complaints
+- Emergency scene proximity
+
+Controls:
+- Use stand-off angles
+- Avoid deep alley runs
+- Avoid close facade descents
+- Keep greater separation from buildings than visually seems necessary
+- Avoid active emergency scenes entirely
+
+10.12 Water/coastal risks
+Risks:
+- Poor depth judgement
+- Spray
+- Wind acceleration
+- Recovery difficulty
+- Low-texture visual environment
+
+Controls:
+- Raise minimum altitude
+- Keep shoreline recovery option
+- Avoid repeated very low passes over choppy water
+- Maintain extra return reserve
+
+10.13 Night / low-light risks
+Risks:
+- Reduced visibility
+- Wires harder to detect
+- Orientation loss
+- False confidence in low-light sensing
+
+Controls:
+- Simplify route
+- Increase stand-off
+- Reduce speed
+- Avoid low-level precision moves
+- Increase abort sensitivity
+
+======================================================================
+11. SHOT-PLANNING TEMPLATE
+======================================================================
+
+Shot ID:
+Objective:
+Lens:
+Start point:
+End point:
+Altitude band:
+Heading:
+Expected wind effect:
+Minimum lateral clearance:
+Minimum vertical clearance:
+Primary route:
+Escape route:
+Return route:
+Safe hover point:
+Emergency landing point:
+Crowd exclusion line:
+Battery launch minimum:
+Battery abort minimum:
+Wind abort threshold:
+Link-loss action:
+Pilot callouts:
+Director notes:
+Take number:
+
+======================================================================
+12. SIMULATION A: HARSH WEATHER IN NATURE
+======================================================================
+
+Scenario:
+Remote coastal or highland nature environment with strong variable wind, intermittent mist, uneven terrain, and possible bird activity.
+
+Objective:
+Capture cinematic establishing footage of cliffs, trees, or exposed terrain.
+
+Risk profile:
+High relative environmental risk.
+
+Main risks:
+- Cliff-edge turbulence
+- Downdrafts on lee side
+- Gust spread
+- Mist reducing visibility and sensor performance
+- Wet lens
+- Bird aggression
+- Slippery launch site
+- Return deficit in headwind
+
+Recommended path:
+- Use an offset parallel route relative to the ridge or cliff
+- Keep wide lateral stand-off from terrain
+- Avoid crest-crossing near ridge edges
+- Avoid low reveals from behind obstacles
+- Avoid repeated low passes
+
+Execution:
+1. Launch from sheltered hard surface
+2. Hover and test gust response
+3. Fly one conservative reconnaissance pass
+4. Record only stable, long-form scenic passes
+5. Abort on mist deposition, unstable gusts, or bird focus
+6. Land with unusually high reserve
+
+Conclusion:
+Go only as a reduced-complexity mission.
+Optimal path means conservative geometry, wide margins, and no aggressive cinematic maneuvering.
+
+======================================================================
+13. SIMULATION B: NORMAL WEATHER IN URBAN AREA
+======================================================================
+
+Scenario:
+Urban media shoot under normal weather with light wind and ordinary public movement.
+
+Objective:
+Capture polished establishing and detail footage of a building and surrounding streetscape.
+
+Risk profile:
+Moderate environmental risk, elevated human/structure complexity.
+
+Main risks:
+- Pedestrians entering corridor
+- Vehicles beneath route
+- GNSS multipath
+- Building-related signal shadow
+- Glass facade proximity
+- Public interference
+- Reduced braking margin in dense geometry
+
+Recommended path:
+- Use stand-off perimeter-based paths
+- Prefer oblique approach angles
+- Prefer wide orbits and controlled lateral slides
+- Avoid deep canyon routes
+- Avoid close facade descents
+- Avoid backward flight near structures
+
+Execution:
+1. Establish sterile takeoff box
+2. Ground marshal controls pedestrian exposure
+3. Run slow dry pass
+4. Capture high orbit / establishing shot first
+5. Move to slow push-in and lateral stand-off shots
+6. Re-check public movement between takes
+7. Abort immediately on corridor incursion
+
+Conclusion:
+Go.
+Best footage-to-risk ratio comes from stable stand-off cinematic paths, not close-proximity stunt-style flying.
+
+======================================================================
+14. HOSTILE OR CONFLICT ENVIRONMENTS
+======================================================================
+
+Do not launch media drones in military conflict zones or hostile operational environments unless the operation is formally cleared and managed under appropriate professional authority.
+
+Automatic no-go / abort conditions:
+- Active kinetic activity
+- Anti-drone activity
+- Jamming or spoofing indicators
+- Unclear control of airspace
+- Emergency or military response activity
+- Inability to ensure civilian-safe operation
+- Inability to prevent harm to people on the ground
+
+Principle:
+Technical flyability does not make an operation safe, lawful, or appropriate.
+
+======================================================================
+15. RECOMMENDED OPERATING DOCTRINE FOR THIS DRONE
+======================================================================
+
+For media work with the DJI Mavic 4 Pro platform:
+- Use imaging strength to reduce need for close approach
+- Fly slower than storyboard instinct suggests
+- Treat long endurance as margin, not mission design
+- Design every shot with exit and abort logic
+- Use obstacle sensing as backup only
+- Simplify immediately when conditions worsen
+- Prioritize smooth, repeatable stand-off paths over risky close-proximity shots
+
+======================================================================
+16. FINAL SUMMARY
+======================================================================
+
+A streamlined professional drone workflow depends on:
+- Strong pre-planning
+- Conservative path architecture
+- Clear crew roles
+- Strict abort logic
+- Realistic treatment of aircraft limitations
+- Aggressive risk management around people, structures, weather, and signal conditions
+
+The safest high-quality aerial workflow is not the most aggressive one.
+It is the one that repeatedly delivers usable footage with predictable margins and low operational uncertainty.
